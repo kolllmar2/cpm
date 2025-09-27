@@ -1,7 +1,7 @@
-how to install
-
-
-
+How to Install
+*
+*
+*
 for Android
 
 pkg install git -y
@@ -17,10 +17,9 @@ cd cpm
 python cpm1.py for cpm1
 
 python cpm2.py for cpm2
-
-
-
-
+*
+*
+*
 for Ios
 
 apk add git
