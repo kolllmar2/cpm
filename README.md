@@ -1,6 +1,7 @@
 **How to Install**
 
 ==============
+
 **for Android**
 
 **pkg install git -y**
@@ -19,6 +20,7 @@
 
 
 =============
+
 **for IOS**
 
 **apk add git**
@@ -36,4 +38,5 @@
 **python3 cpm1.py for cpm1**
 
 **python3 cpm2.py for cpm2**
+
 
