@@ -1,5 +1,7 @@
 how to install
 
+
+
 for Android
 
 pkg install git -y
