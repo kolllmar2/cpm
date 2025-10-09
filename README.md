@@ -14,6 +14,8 @@
 
 **cd cpm**
 
+**git pull**
+
 **python cpm1.py for cpm1**
 
 **python cpm2.py for cpm2**
@@ -35,8 +37,11 @@
 
 **cd cpm**
 
+**git pull**
+
 **python3 cpm1.py for cpm1**
 
 **python3 cpm2.py for cpm2**
+
 
 
